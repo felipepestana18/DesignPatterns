@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{E38F49F6-569A-4C25-95A4-20D3DBAE181D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns", "DesignPatterns\DesignPatterns.csproj", "{E38F49F6-569A-4C25-95A4-20D3DBAE181D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaSimpleFactory", "PizzaSimpleFactory\PizzaSimpleFactory.csproj", "{223DC187-46B0-45BC-97F1-93D95A1AC30C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PizzaSimpleFactory", "PizzaSimpleFactory\PizzaSimpleFactory.csproj", "{223DC187-46B0-45BC-97F1-93D95A1AC30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaFactoryMethod", "PizzaFactoryMethod\PizzaFactoryMethod.csproj", "{18B35F42-6CFB-448B-9B8D-5D969FC91E36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{223DC187-46B0-45BC-97F1-93D95A1AC30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{223DC187-46B0-45BC-97F1-93D95A1AC30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{223DC187-46B0-45BC-97F1-93D95A1AC30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18B35F42-6CFB-448B-9B8D-5D969FC91E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B35F42-6CFB-448B-9B8D-5D969FC91E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B35F42-6CFB-448B-9B8D-5D969FC91E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B35F42-6CFB-448B-9B8D-5D969FC91E36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

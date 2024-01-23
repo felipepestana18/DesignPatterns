@@ -18,7 +18,7 @@ namespace PizzaSimpleFactory
             pizza.Preparar();
             pizza.Assar(20);
             pizza.Embalar();
-            Console.WriteLine("Pizza Finalizzada");
+            Console.WriteLine("Pizza Finalizada");
 
         }
     }

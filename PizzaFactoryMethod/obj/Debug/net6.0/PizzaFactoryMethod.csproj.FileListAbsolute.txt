@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\bin\Debug\net6.0\PizzaFactoryMethod.exe
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\bin\Debug\net6.0\PizzaFactoryMethod.deps.json
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\bin\Debug\net6.0\PizzaFactoryMethod.runtimeconfig.json
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\bin\Debug\net6.0\PizzaFactoryMethod.dll
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\bin\Debug\net6.0\PizzaFactoryMethod.pdb
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.AssemblyInfo.cs
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.dll
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\refint\PizzaFactoryMethod.dll
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.pdb
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\PizzaFactoryMethod.genruntimeconfig.cache
+C:\Users\Pichau\Documents\DesignPatterns\PizzaFactoryMethod\obj\Debug\net6.0\ref\PizzaFactoryMethod.dll
